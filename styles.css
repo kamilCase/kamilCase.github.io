@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oranienbaum&display=swap');
+
+body {
+  background-color: #231f20;
+  font-family: 'Oranienbaum', serif;
+  font-size: 2em;
+}
+
+h1 {
+  color: #fefefe;
+  position: fixed;
+  right: 15%;
+  bottom: 10%
+}
+
+hr {
+  color: #fefefe;
+  position: fixed;
+  bottom: 10%;
+  width: 90%;
+  border-style: solid;
+  border-width: 1px;
+}
