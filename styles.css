@@ -10,7 +10,8 @@ h1 {
   color: #fefefe;
   position: fixed;
   right: 15%;
-  bottom: 10%
+  bottom: 10%;
+  font-weight: normal;
 }
 
 hr {
