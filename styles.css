@@ -4,21 +4,29 @@ body {
   background-color: #231f20;
   font-family: 'Oranienbaum', serif;
   font-size: 2em;
+  margin: 0;
 }
 
 h1 {
   color: #fefefe;
-  position: fixed;
-  right: 15%;
-  bottom: 10%;
+  bottom: 10px;
   font-weight: normal;
+  text-align: right;
+  margin: 0;
 }
 
 hr {
   color: #fefefe;
-  position: fixed;
-  bottom: 13%;
-  width: 90%;
+  bottom: 0;
+  width: 105%;
   border-style: solid;
   border-width: 1px;
+  margin: 0;
+}
+
+.main {
+  position: absolute;
+  width: 90%;
+  right: 15%;
+  bottom: 15%;
 }
